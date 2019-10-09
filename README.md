@@ -1,2 +1,2 @@
 # JUnit
-Exemplos básicos de JUnit
+Exemplos básicos de testes usando JUnit
